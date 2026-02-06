@@ -21,14 +21,14 @@ A complete Glassmorphism / Frosted Glass UI system for Flutter inspired by Apple
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/containers.png" width="200" alt="Containers"/>
-  <img src="screenshots/cards.png" width="200" alt="Cards"/>
-  <img src="screenshots/buttons.png" width="200" alt="Buttons"/>
-  <img src="screenshots/animated.png" width="200" alt="Animated"/>
+  <img src="https://raw.githubusercontent.com/DivyanshVish/flutter_glass_ui_kit/main/screenshots/containers.png" width="200" alt="Containers"/>
+  <img src="https://raw.githubusercontent.com/DivyanshVish/flutter_glass_ui_kit/main/screenshots/cards.png" width="200" alt="Cards"/>
+  <img src="https://raw.githubusercontent.com/DivyanshVish/flutter_glass_ui_kit/main/screenshots/buttons.png" width="200" alt="Buttons"/>
+  <img src="https://raw.githubusercontent.com/DivyanshVish/flutter_glass_ui_kit/main/screenshots/animated.png" width="200" alt="Animated"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/bottomsheet.png" width="200" alt="Bottom Sheet"/>
+  <img src="https://raw.githubusercontent.com/DivyanshVish/flutter_glass_ui_kit/main/screenshots/bottomsheet.png" width="200" alt="Bottom Sheet"/>
 </p>
 
 | Screenshot | Description |
