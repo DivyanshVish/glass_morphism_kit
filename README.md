@@ -2,7 +2,7 @@
 
 A complete Glassmorphism / Frosted Glass UI system for Flutter inspired by Apple's design language. Create beautiful frosted glass effects with blur, translucency, and subtle borders.
 
-[![pub package](https://img.shields.io/pub/v/glass_morphism_kit.svg)](https://pub.dev/packages/glass_morphism_kit)
+[![pub package](https://img.shields.io/pub/v/flutter_glass_ui_kit.svg)](https://pub.dev/packages/flutter_glass_ui_kit)
 [![Flutter](https://img.shields.io/badge/Flutter-3.10+-blue.svg)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -45,19 +45,19 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  glass_morphism_kit: ^1.0.2
+  flutter_glass_ui_kit: ^1.0.4
 ```
 
 Or install via command line:
 
 ```bash
-flutter pub add glass_morphism_kit
+flutter pub add flutter_glass_ui_kit
 ```
 
 ## Quick Start
 
 ```dart
-import 'package:glass_morphism_kit/glass_morphism_kit.dart';
+import 'package:flutter_glass_ui_kit/flutter_glass_ui_kit.dart';
 
 // Wrap your app with GlassTheme
 GlassTheme(

@@ -1,9 +1,9 @@
-name: glass_morphism_kit
+name: flutter_glass_ui_kit
 description: A complete Glassmorphism / Frosted UI system for Flutter. Includes GlassContainer, GlassCard, GlassButton, GlassBottomSheet, GlassAppBar, and more.
-version: 1.0.3
-homepage: https://github.com/DivyanshVish/glass_morphism_kit
-repository: https://github.com/DivyanshVish/glass_morphism_kit
-issue_tracker: https://github.com/DivyanshVish/glass_morphism_kit/issues
+version: 1.0.4
+homepage: https://github.com/DivyanshVish/flutter_glass_ui_kit
+repository: https://github.com/DivyanshVish/flutter_glass_ui_kit
+issue_tracker: https://github.com/DivyanshVish/flutter_glass_ui_kit/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

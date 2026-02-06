@@ -1,3 +1,7 @@
+## 1.0.4
+
+* Package renamed from `glass_morphism_kit` to `flutter_glass_ui_kit` to avoid naming conflicts on pub.dev
+
 ## 1.0.3
 
 * Added `GlassToggleContainer` for easy active/inactive glass containers

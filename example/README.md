@@ -1,6 +1,6 @@
-# glass_morphism_kit_example
+# flutter_glass_ui_kit_example
 
-Demonstrates how to use the glass_morphism_kit plugin.
+Demonstrates how to use the flutter_glass_ui_kit plugin.
 
 ## Getting Started
 

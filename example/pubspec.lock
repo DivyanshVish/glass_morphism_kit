@@ -54,6 +54,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_glass_ui_kit:
+    dependency: "direct main"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "1.0.4"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -67,13 +74,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  glass_morphism_kit:
-    dependency: "direct main"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "1.0.2"
   leak_tracker:
     dependency: transitive
     description:
