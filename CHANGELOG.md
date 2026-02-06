@@ -1,3 +1,10 @@
+## 1.0.3
+
+* Added `GlassToggleContainer` for easy active/inactive glass containers
+* Improved performance of glass rendering
+* Fixed minor documentation issues
+
+
 ## 1.0.2
 
 * Added `borderColor` property to all glass widgets for solid color borders
