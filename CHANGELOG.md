@@ -1,3 +1,7 @@
+## 1.0.5
+
+* Fixed screenshot URLs to use GitHub raw URLs for proper display on pub.dev
+
 ## 1.0.4
 
 * Package renamed from `glass_morphism_kit` to `flutter_glass_ui_kit` to avoid naming conflicts on pub.dev

@@ -45,7 +45,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_glass_ui_kit: ^1.0.4
+  flutter_glass_ui_kit: ^1.0.5
 ```
 
 Or install via command line:
