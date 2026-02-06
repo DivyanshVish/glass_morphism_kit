@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glass_ui_kit/glass_ui_kit.dart';
+import 'package:glass_morphism_kit/glass_morphism_kit.dart';
 
 void main() {
   runApp(const GlassUIKitExampleApp());

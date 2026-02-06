@@ -1,5 +1,5 @@
-name: glass_ui_kit_example
-description: Demonstrates how to use the glass_ui_kit plugin.
+name: glass_morphism_kit_example
+description: Demonstrates how to use the glass_morphism_kit plugin.
 publish_to: 'none'
 
 environment:
@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  glass_ui_kit:
+  glass_morphism_kit:
     path: ../
 
 dev_dependencies:

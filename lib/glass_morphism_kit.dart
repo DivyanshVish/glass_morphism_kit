@@ -23,7 +23,7 @@
 /// Use [GlassPerformance] to control rendering quality:
 /// - [GlassPerformance.low] - Reduced blur for better performance
 /// - [GlassPerformance.medium] - Full blur with gradients
-library glass_ui_kit;
+library glass_morphism_kit;
 
 export 'src/glass_container.dart';
 export 'src/glass_card.dart';
